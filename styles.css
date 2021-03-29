@@ -1,0 +1,48 @@
+*{
+	font-family: New Tegomin;
+}
+
+/* SERVICES SECTION */
+
+#SERVICES_OFFERED{
+	margin-top: 2.5px;
+}
+
+.services-column{
+	padding: 10px;
+	text-align: center;
+}
+
+.services-content{
+	margin-top: 30px;
+}
+
+/* GALLERY SECTION */
+
+#gallery{
+	margin-top: 25px;
+	text-align: center;
+}
+
+button{
+	margin-top: 50px;
+}
+
+footer{
+	padding: 20px;
+	margin-top: 50px;
+	background-color: #333333;
+	color: white;
+}
+
+.footer-link{
+	color: white;
+}
+
+.footer-link:hover{
+	color: red;
+}	
+
+ul{
+	list-style: none;
+}
